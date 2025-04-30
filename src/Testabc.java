@@ -1,5 +1,6 @@
 public class Testabc {
     public static void main(String[] args) {
         System.out.println("Noroc!");
+        System.out.println("Noroc 2 !");
     }
 }
